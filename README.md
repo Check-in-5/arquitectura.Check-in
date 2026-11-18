@@ -1,2 +1,2 @@
 # arquitectura.Check-in
-Documentacion, decisiones, codigo, integración.
+Documentacion y decisiones. No codigo
